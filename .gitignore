@@ -1,20 +1,21 @@
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 
 # Dataset
 dataset/
 
+# Processed data
+data/
+*.npy
+
 # Python
 __pycache__/
 *.pyc
 
-# Model files (optional)
-*.h5
-*.keras
-
 # VS Code
 .vscode/
 
-# Numpy arrays generated during preprocessing
-*.npy
+# Model files
+*.keras
+*.h5
