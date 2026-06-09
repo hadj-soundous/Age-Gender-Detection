@@ -60,7 +60,7 @@ AgeGenderAI/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AgeGenderAI.git
+git clone https://github.com/hadj-soundous/Age-Gender-Detection.git
 cd AgeGenderAI
 ```
 
